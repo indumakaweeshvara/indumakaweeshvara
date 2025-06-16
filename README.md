@@ -18,9 +18,7 @@ Exploring the world of software development and always eager to learn new tech.
 - Version Control with Git & GitHub
 
 ---
-<!-- Header Image -->
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/008/848/313/original/abstract-digital-technology-banner-background-free-vector.jpg" alt="Header Image" />
+reviews/008/848/313/original/abstract-digital-technology-banner-background-free-vector.jpg" alt="Header Image" />
 </p>
 ### 💼 Skills & Interests
 - Java | JSP | Servlets | MySQL  
