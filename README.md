@@ -3,6 +3,8 @@
 ### 👨‍🎓 About Me
 I'm a passionate **Computer Science** student based in **Galle, Sri Lanka**.  
 Exploring the world of software development and always eager to learn new tech.
+<!-- Header Image -->
+![Header](https://t4.ftcdn.net/jpg/05/67/63/90/360_F_567639093_B34joEjTq0zGU3iYv2OcJxO9v3xA7VO7.jpg)
 
 ---
 
