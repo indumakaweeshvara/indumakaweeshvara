@@ -1,6 +1,5 @@
 
 <!-- Header Image -->
-![Header](https://static.vecteezy.com/system/resources/previews/008/848/313/original/abstract-digital-technology-banner-background-free-vector.jpg)
 
 
 # Hey, I'm Induma Kaweeshvara 👋
@@ -17,6 +16,7 @@ Exploring the world of software development and always eager to learn new tech.
 - Data Structures & Algorithms  
 - Cloud Computing Basics  
 - Version Control with Git & GitHub
+![Header](https://static.vecteezy.com/system/resources/previews/008/848/313/original/abstract-digital-technology-banner-background-free-vector.jpg)
 
 ---
 
