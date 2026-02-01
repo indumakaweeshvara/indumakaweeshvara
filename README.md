@@ -1,3 +1,4 @@
+![photo_2025-06-16_15-04-52](https://github.com/user-attachments/assets/92874f20-c97b-4420-b701-23ccdff03824)
 
 <!-- Header Image -->
 
